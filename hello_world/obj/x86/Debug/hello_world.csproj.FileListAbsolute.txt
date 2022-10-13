@@ -1,0 +1,6 @@
+/home/kchernyshov/Projects/hello_world/hello_world/bin/Debug/hello_world.exe
+/home/kchernyshov/Projects/hello_world/hello_world/bin/Debug/hello_world.pdb
+/home/kchernyshov/Projects/hello_world/hello_world/obj/x86/Debug/hello_world.csproj.AssemblyReference.cache
+/home/kchernyshov/Projects/hello_world/hello_world/obj/x86/Debug/hello_world.csproj.CoreCompileInputs.cache
+/home/kchernyshov/Projects/hello_world/hello_world/obj/x86/Debug/hello_world.exe
+/home/kchernyshov/Projects/hello_world/hello_world/obj/x86/Debug/hello_world.pdb
